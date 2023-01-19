@@ -1,5 +1,5 @@
 Hi, I'm Bartłomiej 👋
-⚡ FRONTEND DEVELOPER
+⚡ Now i learn to be a FRONTEND DEVELOPER but this path its not easy , then I hard work , and I think I can be a good programmer after my learn.⚡
 
 💻 So far I've used:
 
