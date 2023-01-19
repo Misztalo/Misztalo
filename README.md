@@ -10,3 +10,5 @@ Hi, I'm Bartłomiej 👋
 ![SCSS](https://img.shields.io/badge/-SCSS-e6322d?style=flat&logo=css)
 
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-e6322d?style=flat&logo=css)
+
+![GIT](https://img.shields.io/badge/-GIT-e6322d?style=flat&logo=css)
